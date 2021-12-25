@@ -1,5 +1,4 @@
 import time
-
 import requests
 
 apiService = requests.get("https://www.githubstatus.com/api/v2/status.json") # Success code

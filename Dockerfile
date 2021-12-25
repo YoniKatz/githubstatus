@@ -6,4 +6,4 @@ COPY main.py requirements.txt /src/
 
 RUN pip install -r requirements.txt
 
-CMD ["python","-u","ramapi.py"]
+CMD ["python","-u","main.py"]

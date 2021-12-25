@@ -1,0 +1,5 @@
+Pipeline
+
+I'd build the docker image with the Dockerfile.
+I'd push the docker image to a remote repository.
+I'd pull the image with a kubernetes deployment, and use it.
